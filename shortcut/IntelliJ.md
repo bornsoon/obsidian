@@ -28,7 +28,7 @@
 | 코드(라인) 자동 정렬              | cmd + option + L        |         |
 | 멀티 커서                     | option 2번 + 위 / 아래      |         |
 | 테스트 클래스 생성                | cmd + shift + T         |         |
-| 세미콜론과 함께 자동 완성            | cmd +z                  |         |
+| 세미콜론과 함께 자동 완성            | cmd +shift + Enter      |         |
 | 실행                        | ctrl + R                |         |
 | 디버깅                       | ctrl + D                |         |
 | 현재 메소드/클래스 실행             | ctrl + shift + R        |         |
@@ -68,6 +68,7 @@
 | 다음 등장에 대한 멀티 커서 선택        | ctrl + G                |         |
 | 다음 등장에 대한 멀티 커서 선택 및 이동   | cmd + G                 |         |
 | 모든 등장에 대한 멀티 커서 선택        | ctrl + cmd + G          |         |
+| 이전 같은 단어 선택 해제            | ctrl + shift + G        |         |
 | 현재 Statement의 자동 완성       | cmd + shift + Enter     |         |
 | Run Everything            | ctrl + ctrl             |         |
 | 필요한 action 찾기             | cmd + shift + A         |         |

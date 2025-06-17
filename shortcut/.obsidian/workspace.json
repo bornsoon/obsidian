@@ -9,8 +9,9 @@
         "dimension": 65.17205422314912,
         "children": [
           {
-            "id": "d14b7e5c0313d506",
+            "id": "a6ed9ee9dc37dd9a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +19,25 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "IntelliJ"
+            }
+          },
+          {
+            "id": "dacc487137db5f39",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mac.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Mac"
             }
           }
         ]
@@ -200,11 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d14b7e5c0313d506",
+  "active": "a6ed9ee9dc37dd9a",
   "lastOpenFiles": [
     "Mac.md",
-    "Welcome.md",
     "IntelliJ.md",
+    "Welcome.md",
     "obsidian-git/styles.css",
     "obsidian-git/manifest.json",
     "obsidian-git/main.js",
