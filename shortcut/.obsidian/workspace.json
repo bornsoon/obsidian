@@ -6,7 +6,7 @@
       {
         "id": "fc1d86ca00e9ebac",
         "type": "tabs",
-        "dimension": 59.59252971137521,
+        "dimension": 61.73096976016684,
         "children": [
           {
             "id": "d14b7e5c0313d506",
@@ -42,7 +42,7 @@
       {
         "id": "ccf428ac4b92b8f4",
         "type": "tabs",
-        "dimension": 40.407470288624786,
+        "dimension": 38.26903023983316,
         "children": [
           {
             "id": "403620425937a823",
@@ -215,10 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae0b527305ee9202",
+  "active": "5e06308175f084c8",
   "lastOpenFiles": [
-    "Mac.md",
     "IntelliJ.md",
+    "Mac.md",
     "Welcome.md",
     "obsidian-git/styles.css",
     "obsidian-git/manifest.json",
