@@ -4,19 +4,13 @@
 | ------------------------- | ------------------- | ------- |
 | 자동 완성                     | cmd + Enter         |         |
 | 메서드 오버라이드                 | ctrl + O            |         |
-| 인터페이스 구현                  | Ctrl + I            |         |
-| 커서가 가리키는 부분 리팩터링          | Ctrl + T            |         |
+| 인터페이스 구현                  | ctrl + I            |         |
+| 커서가 가리키는 부분 리팩터링          | ctrl + T            |         |
 | 커서가 가리키는 부분을 상수로 빼기       | cmd + option + C    |         |
 | 이름 일괄 변경(클래스, 변수 등)       | Shift + F6          |         |
 | 변수 생성                     | cmd + option + V    |         |
 | 줄 제거                      | cmd + X             |         |
-|                           |                     |         |
-|                           |                     |         |
-|                           |                     |         |
-|                           |                     |         |
-|                           |                     |         |
-|                           |                     |         |
-|                           |                     |         |
+| 사용처 찾기                    | cmd + F7            |         |
 | 파일 안에서 탐색                 | cmd + F             |         |
 | 전체 탐색                     | cmd + shift + F     |         |
 | 파일 안에서 변경                 | cmd + R             |         |
@@ -26,8 +20,7 @@
 | 일괄 대/소문자 전환               | cmd + shift + U     |         |
 | 현재 탭 끄기                   | cmd + W             |         |
 | Import 정리                 | ctrl + option + O   |         |
-| 코드(라인) 자동 정렬              | cmd + option + L    |         |
-| 멀티 커서                     | option 2번 + 위 / 아래  |         |
+| 코드(라인) 자동 정렬              | cmd + option + I    |         |
 | 테스트 클래스 생성                | cmd + shift + T     |         |
 | 세미콜론과 함께 자동 완성            | cmd +shift + Enter  |         |
 | 실행                        | ctrl + R            |         |
@@ -36,40 +29,19 @@
 | 현재 메소드/클래스 디버깅            | ctrl + shift + D    |         |
 | 최근 실행 목록                  | ctrl + option + R   |         |
 | 최근 디버깅 목록                 | ctrl + option + D   |         |
-|                           |                     |         |
-|                           |                     |         |
-|                           |                     |         |
-|                           |                     |         |
-|                           |                     |         |
-|                           |                     |         |
 | Getter, Setter 등 자동 생성    | cmd + N             |         |
+| 에디터에서 새 파일 생성             | ctrl + option + N   |         |
+| 프로젝트에서 새 파일 생성            | cmd + N             |         |
 | 한줄 복사                     | cmd + D             |         |
-| 깃 커밋                      | cmd + K             |         |
-| 깃 커밋 후 푸시                 | ctrl + shift + K    |         |
-| VCS 기능                    | ctrl + v            |         |
 | 현재 열려있는 파일 포커싱            | option + F1 + 1     |         |
-| 프로젝트 창 닫기                 | shift + esc         |         |
-| 프로젝트 화면 열기/닫기             | cmd + 1             |         |
-| 모든 윈도우 창 닫기               | cmd + Shift + F12   |         |
-| 환경설정 창 열기                 | cmd + .             |         |
-| 프로젝트 설정 창 열기              | cmd + ;             |         |
-| IntelliJ 전체 검색 창 열기       | shift + shift       |         |
-| 클래스 검색 창 열기               | cmd + O             |         |
-| 파일 검색 창 열기                | cmd + shift + O     |         |
 | 에러 발생 지점으로 이동             | F2                  |         |
 | 이전 에러 발생 지점으로 이동          | shift + F2          |         |
 | 인라인으로 코드 수정               | cmd + option + N    |         |
 | Private 메소드 또는 변수 추출      | cmd + option + M    |         |
 | 클래스 계층 보기                 | ctrl + H            |         |
 | 메소드 호출 계층 보기              | ctrl + option + H   |         |
-|                           |                     |         |
-|                           |                     |         |
 | 파라미터 미리 보기                | cmd + P             |         |
 | 지역변수를 메소드 파라미터로 추출        | cmd + option + P    |         |
-|                           |                     |         |
-|                           |                     |         |
-|                           |                     |         |
-|                           |                     |         |
 | 현재 Statement의 자동 완성       | cmd + shift + Enter |         |
 | Run Everything            | ctrl + ctrl         |         |
 | 필요한 action 찾기             | cmd + shift + A     |         |
@@ -96,6 +68,18 @@
 | Debug 창으로 이동       | cmd + 5                 |         |
 | Service 창으로 이동     | cmd + 6                 |         |
 
+[창]
+
+|                     | Mac               | Windows |
+| ------------------- | ----------------- | ------- |
+| 프로젝트 창 닫기           | shift + esc       |         |
+| 프로젝트 화면 열기/닫기       | cmd + 1           |         |
+| 모든 윈도우 창 닫기         | cmd + Shift + F12 |         |
+| 환경설정 창 열기           | cmd + .           |         |
+| 프로젝트 설정 창 열기        | cmd + ;           |         |
+| IntelliJ 전체 검색 창 열기 | shift + shift     |         |
+| 클래스 검색 창 열기         | cmd + O           |         |
+| 파일 검색 창 열기          | cmd + shift + O   |         |
 
 
 [커서]
@@ -109,3 +93,14 @@
 | 다음 등장에 대한 멀티 커서 선택 및 이동 | cmd + G                |         |
 | 모든 등장에 대한 멀티 커서 선택      | ctrl + cmd + G         |         |
 | 이전 같은 단어 선택 해제          | ctrl + shift + G       |         |
+| 멀티 커서                   | option 2번 + 위 / 아래     |         |
+| 단어 간격으로 이동              |                        |         |
+
+
+[Git]
+
+|           | Mac              | Windows |
+| --------- | ---------------- | ------- |
+| 깃 커밋      | cmd + K          |         |
+| 깃 커밋 후 푸시 | ctrl + shift + K |         |
+| VCS 기능    | ctrl + v         |         |
