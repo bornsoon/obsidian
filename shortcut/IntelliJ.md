@@ -43,6 +43,9 @@
 | 현재 Statement의 자동 완성    | cmd + shift + Enter |         |
 | Run Everything         | ctrl + ctrl         |         |
 | 자동 import 및 처리         | option + enter      |         |
+| 파라미터 정보                | cmd + p             |         |
+| Quick Document         | F1                  |         |
+| Java Doc               | /** + Enter         |         |
 
 
 [ 이동 ]
