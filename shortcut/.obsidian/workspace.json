@@ -129,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9899a807e1bc362a",
@@ -218,10 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6ed9ee9dc37dd9a",
+  "active": "5e06308175f084c8",
   "lastOpenFiles": [
-    "Mac.md",
     "IntelliJ.md",
+    "Mac.md",
     "Welcome.md",
     "obsidian-git/styles.css",
     "obsidian-git/manifest.json",
