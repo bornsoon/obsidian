@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6ed9ee9dc37dd9a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IntelliJ.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "IntelliJ"
-            }
-          },
-          {
             "id": "dacc487137db5f39",
             "type": "leaf",
             "pinned": true,
@@ -113,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IntelliJ.md",
+                "file": "Mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IntelliJ"
+              "title": "Backlinks for Mac"
             }
           },
           {
@@ -185,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6ed9ee9dc37dd9a",
+  "active": "dacc487137db5f39",
   "lastOpenFiles": [
     "IntelliJ.md",
     "Mac.md",
