@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fc1d86ca00e9ebac",
+        "id": "dca5729c61ee605c",
         "type": "tabs",
         "children": [
           {
-            "id": "dacc487137db5f39",
+            "id": "24f989e8a50ce867",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,13 +17,12 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Mac"
             }
           },
           {
-            "id": "818016fa5733c71b",
+            "id": "a4d685d02d7b8eea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "818016fa5733c71b",
+  "active": "a4d685d02d7b8eea",
   "lastOpenFiles": [
     "Mac.md",
     "IntelliJ.md",
