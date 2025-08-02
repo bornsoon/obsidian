@@ -14,30 +14,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "shortcut/IntelliJ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "4856023272cd9290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB/POST, PUT, PATCH.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "POST, PUT, PATCH"
+              "title": "IntelliJ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3d599a385a98f843",
@@ -212,11 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cc3175bfc6c0908",
+  "active": "ec5710d0aa93250e",
   "lastOpenFiles": [
-    "README.md",
-    "WEB/POST, PUT, PATCH.md",
+    "shortcut/IntelliJ.md",
     "Welcome.md",
+    "WEB/POST, PUT, PATCH.md",
+    "README.md",
     "WEB",
     "JavaScript",
     "React",
