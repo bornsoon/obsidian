@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "IntelliJ"
             }
+          },
+          {
+            "id": "ad4ef0e6cf5994f0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IntelliJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IntelliJ"
+              "title": "Backlinks"
             }
           },
           {
@@ -157,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "041dfe6265ea453c",
+  "active": "ad4ef0e6cf5994f0",
   "lastOpenFiles": [
     "Mac.md",
     "IntelliJ.md",
