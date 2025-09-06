@@ -160,27 +160,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "shortcut/IntelliJ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
-            }
-          },
-          {
-            "id": "4cc3175bfc6c0908",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of IntelliJ"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec5710d0aa93250e",
+  "active": "0fefe40730a9acb4",
   "lastOpenFiles": [
     "shortcut/IntelliJ.md",
     "Welcome.md",
