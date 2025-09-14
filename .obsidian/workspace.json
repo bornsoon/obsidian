@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "IntelliJ"
             }
+          },
+          {
+            "id": "590e84c5ceb58e59",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3d599a385a98f843",
@@ -160,13 +173,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shortcut/IntelliJ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IntelliJ"
+              "title": "Outline"
             }
           }
         ],
@@ -178,6 +190,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -187,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fefe40730a9acb4",
+  "active": "590e84c5ceb58e59",
   "lastOpenFiles": [
     "shortcut/IntelliJ.md",
     "Welcome.md",
