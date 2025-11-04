@@ -33,9 +33,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.9.12"
             }
+          },
+          {
+            "id": "806b93282d8147c5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3d599a385a98f843",
@@ -200,8 +212,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "590e84c5ceb58e59",
+  "active": "806b93282d8147c5",
   "lastOpenFiles": [
+    "shortcut/Untitled.base",
+    "shortcut/IDEA.md",
     "shortcut/IntelliJ.md",
     "Welcome.md",
     "WEB/POST, PUT, PATCH.md",
