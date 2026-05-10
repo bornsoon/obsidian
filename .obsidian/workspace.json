@@ -45,9 +45,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.9.14"
             }
+          },
+          {
+            "id": "1acb9febdb3e0063",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "3d599a385a98f843",
@@ -212,7 +224,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "806b93282d8147c5",
+  "active": "1acb9febdb3e0063",
   "lastOpenFiles": [
     "shortcut/Untitled.base",
     "shortcut/IDEA.md",
